@@ -1,6 +1,10 @@
-# Getting Started with Create React App and Redux
+## Apple Clone
+This project is a clone of the Apple website built using React.js, Redux, Styled-Components, and Font Awesome icons. It aims to replicate the look and feel of the Apple website while utilizing modern web development technologies.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+## Demo Website
+To view the live demo [click here](https://apple-replication.netlify.app/)
+
+<img width="1268" alt="Apple Photo" src="https://github.com/cheternal7890/apple-clone/assets/157067093/dbc12c7c-c095-40fd-a2ef-6f2850d3dd44">
 
 ## Available Scripts
 
