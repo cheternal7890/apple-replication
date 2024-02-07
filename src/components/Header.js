@@ -49,7 +49,7 @@ const Menu =  styled.div`
     align-items:center;
     justify-content: center;
     font-size: 12px;    
-    margin-left: 50px;
+    margin-left: 40px;
     
 
     a {
