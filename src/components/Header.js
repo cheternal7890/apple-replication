@@ -38,7 +38,7 @@ const Container = styled.div`
     .appleLogo{
         width: 14px;
         height: 16px;
-        margin-right: 12px;
+        margin-right: 14px;
         margin-bottom: 4px;
     }
     
@@ -49,12 +49,14 @@ const Menu =  styled.div`
     align-items:center;
     justify-content: center;
     font-size: 12px;    
+    margin-left: 60px;
     
 
     a {
     color: white;
     opacity: 0.75;
     padding: 16px;
+    margin-left: 20px;
     text-decoration: none;
  }
 
@@ -68,10 +70,10 @@ const Menu =  styled.div`
 
 const MiddleMenu = styled.div`
 
+
 @media(max-width: 1080px){
     display: none;
-
-        
+    
 
   }
 `
