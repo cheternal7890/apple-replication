@@ -37,7 +37,7 @@ const Wrap = styled.div`
 
     display: flex;
     flex-direction: column;
-    justify-contnet: space-between;
+   
     align-items: center;
 
 

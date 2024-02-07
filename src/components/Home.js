@@ -32,11 +32,6 @@ function Home() {
       link2="Buy"
       marginTop="90px"
       />
-   
-
-
-
-
      
     </Container>
   )
